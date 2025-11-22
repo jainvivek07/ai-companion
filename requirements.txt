@@ -1,0 +1,10 @@
+fastapi
+uvicorn
+google-generativeai
+edge-tts
+python-multipart
+python-dotenv
+jinja2
+itsdangerous
+aiofiles
+emoji
