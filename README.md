@@ -36,7 +36,7 @@ A production-ready, emotionally intelligent AI Companion web application built w
     ```
 
 3.  **Configure Environment**:
-    -   Rename `.env.example` to `.env`.
+    -   create `.env`.
     -   Add your **Google API Key** (Get it from [Google AI Studio](https://aistudio.google.com/)).
     -   Set your Admin Credentials.
 
@@ -84,3 +84,4 @@ project_root/
     ├── login.html
     └── chat.html
 ```
+
